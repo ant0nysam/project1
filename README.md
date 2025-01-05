@@ -1,0 +1,63 @@
+# Проект 1. "Анализ резюме из HeadHunter"
+
+## Оглавление
+[1. Описание проекта](https://github.com/ant0nysam/sf_data_science/tree/main/project1/README.md#Описание-проекта)\
+[2. Какой кейс решаем](https://github.com/ant0nysam/sf_data_science/blob/main/project1/README.md#Какой-кейс-решаем)\
+[3. Краткая информация о данных](https://github.com/ant0nysam/sf_data_science/blob/main/project1/README.md#Краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/ant0nysam/sf_data_science/blob/main/project1/README.md#Этапы-работы-над-проектом)\
+[5. Результат](https://github.com/ant0nysam/sf_data_science/blob/main/project1/README.md#Результат)\
+[6. Выводы](https://github.com/ant0nysam/sf_data_science/blob/main/project1/README.md#Выводы)
+
+### Описание проекта
+Подготовка данных для построения модели.
+
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
+
+
+### Какой кейс решаем?
+Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и состоит задача.
+
+**Метрика качества**
+Данные очищены от дублей и выбросов, приведены к необходимому формату, построены диаграммы для разведывательного анализа и сделаны выводы по ним.
+
+**Что практикуем?**
+* Анализ данных
+* Очистка данных
+* Построение диаграмм
+* Feature Engineering
+
+
+### Краткая информация о данных
+База резюме, выгруженная с сайта поиска вакансий hh.ru
+Скачать её можно по [этой ссылке](https://drive.google.com/file/d/1BooZn5rfAac5OVfQoYhQ22wzYVuNKU9l/view?usp=drive_link)
+
+Выгрузка курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019
+Скачать её можно по [этой ссылке](https://github.com/ant0nysam/project1/blob/master/data/ExchangeRates.csv)
+
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
+
+
+### Этапы работы над проектом
+1. Базовый анализ структуры данных
+
+2. Преобразование данных
+
+3. Разведывательный анализ
+
+4. Очистка данных
+
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
+
+
+### Результат:
+Данные проанализированы, очищены от дубликатов, выбросов и ненужных признаков, преобразованы к подходящему для дальнейшей работы виду. 
+
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
+
+
+### Выводы
+Данные подготовлены для дальнейшей работы, в том числе - для использования в построении необходимой модели.
+
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
+
+Если информация по данному проекту покажется Вам интересной или полезной, то я буду очень Вам благодарен, если отметите репозиторий и профиль :star::star::star:-дами
